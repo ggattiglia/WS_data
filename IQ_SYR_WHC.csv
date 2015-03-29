@@ -1,0 +1,11 @@
+unique_number,id_no,rev_bis,name_en,date_inscribed,secondary_dates,danger_list,longitude,latitude,area_hectares,C1,C2,C3,C4,C5,C6,N7,N8,N9,N10,criteria_txt,category,category_short,states_name_en,name_en2,iso_code,udnp_code,transboundary
+1456,276,rev,Samarra Archaeological City,2007,,Y 2007,"43,82354306","34,34098944",15058,0,1,1,1,0,0,0,0,0,0,(ii)(iii)(iv),Cultural,C,Iraq,Arab States,iq,irq,0
+309,277,rev,Hatra,1985,,,"42,71833","35,58806","323,75",0,1,1,1,0,1,0,0,0,0,(ii)(iii)(iv)(vi),Cultural,C,Iraq,Arab States,iq,irq,0
+1310,1130,,Ashur (Qal'at Sherqat),2003,,Y 2003,"43,25972","35,45889",70,0,0,1,1,0,0,0,0,0,0,(iii)(iv),Cultural,C,Iraq,Arab States,iq,irq,0
+1980,1437,,Erbil Citadel,2014,,,"44,00916667","36,19111111","15,6",0,0,0,1,0,0,0,0,0,0,(iv),Cultural,C,Iraq,Arab States,iq,irq,0
+1862,20,Bis,Ancient City of Damascus,1979,,,"36,30639","33,51139","86,12",1,1,1,1,0,1,0,0,0,0,(i)(ii)(iii)(iv)(vi),Cultural,C,Syrian Arab Republic,Arab States,sy,syr,0
+24,21,,Ancient City of Aleppo,1986,,,"37,16667","36,23333",364,0,0,1,1,0,0,0,0,0,0,(iii)(iv),Cultural,C,Syrian Arab Republic,Arab States,sy,syr,0
+25,22,,Ancient City of Bosra,1980,,,"36,48167","32,51806",0,1,0,1,0,0,1,0,0,0,0,(i)(iii)(vi),Cultural,C,Syrian Arab Republic,Arab States,sy,syr,0
+26,23,,Site of Palmyra,1980,,,"38,26667","34,55417","0,36",1,1,0,1,0,0,0,0,0,0,(i)(ii)(iv),Cultural,C,Syrian Arab Republic,Arab States,sy,syr,0
+1406,1229,,Crac des Chevaliers and Qalâ€™at Salah El-Din,2006,,,"36,26305556","34,78166667","8,87",0,1,0,1,0,0,0,0,0,0,(ii)(iv),Cultural,C,Syrian Arab Republic,Arab States,sy,syr,0
+1761,1348,,Ancient Villages of Northern Syria,2011,,Y 2013,"36,84416667","36,33416667",12290,0,0,1,1,1,0,0,0,0,0,(iii)(iv)(v),Cultural,C,Syrian Arab Republic,Arab States,sy,syr,0
