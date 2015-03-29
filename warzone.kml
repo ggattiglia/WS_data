@@ -1,0 +1,1144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Deir al Zor</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ISIS most of the city; the Syrian military controls a base and some neighborhoods. The Al Nusrah Front and its allies fled the city in July.]]></description>
+			<Point>
+				<coordinates>40.145416,35.333053,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Raqqah</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Fell under ISIS control in March 2013.]]></description>
+			<Point>
+				<coordinates>39.01382400000001,35.963280000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Al Hasakah</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[In alliance with Islamic Front and other rebel groups.]]></description>
+			<Point>
+				<coordinates>40.742798,36.516259,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Albu Kamal</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Al Nusrah Front is said to control the town of Abu Kamal in March 2013, but ISIS controls areas outside of the town. Al Nusrah appears to be allowing ISIS transit the town; captured Iraqi military hardware has moved through Abu Kamal.]]></description>
+			<Point>
+				<coordinates>40.908794,34.473307,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Manjib</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.949524,36.537778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Al Bab</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.516251,36.389229,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Jarabulus</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>38.026428,36.823027,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Fallujah</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Second largest city in Anbar province and seat of al Qaeda's insurgency from 2004-2007.<br>Fell under ISIS control in January 2014.]]></description>
+			<Point>
+				<coordinates>43.784637,33.351179,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Fallujah Dam</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ISIS is in control of the Fallujah Dam.]]></description>
+			<Point>
+				<coordinates>43.774338,33.309873,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Al Qaim</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Control of the Al Qaim and the border crossing has alternated several times between the Iraqi military and ISIS since Mosul fell on June 10. ISIS currently controls Al Qaim.]]></description>
+			<Point>
+				<coordinates>41.09127,34.373195,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Hit</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Islamic State took control of Hit on Oct. 2.]]></description>
+			<Point>
+				<coordinates>42.807198,33.63606,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Rawa</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Fell under ISIS control in January 2014.]]></description>
+			<Point>
+				<coordinates>41.919022,34.47712800000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Anah</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Fell under ISIS control in January 2014.]]></description>
+			<Point>
+				<coordinates>41.989059,34.377446,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Tal Abayd</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Islamic State raised its flag over Tal Abayd in January 2014.]]></description>
+			<Point>
+				<coordinates>38.961639,36.686041,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Haditha</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Haditha is contested. The Iraqi military controls the dam.]]></description>
+			<Point>
+				<coordinates>42.375641,34.155568,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Saqlawiyah</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Fell under ISIS control in January 2014. The Islamic State overran a military base in Saqlawiyah on Sept. 21.]]></description>
+			<Point>
+				<coordinates>43.677177,33.397052,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Karma</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Fell under ISIS control in March 2014.]]></description>
+			<Point>
+				<coordinates>43.907719,33.402355,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Abu Ghrab</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Gateway city to Baghdad.<br>Fell under ISIS control in March 2014.]]></description>
+			<Point>
+				<coordinates>44.066162,33.294378,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Jurf al Sakhar</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Fell under ISIS control in March 2014. Iraq forces claimed to retake control of Jurf al Sakhar multiple times in May, June, and July. But the area still appears to be under ISIS control.]]></description>
+			<Point>
+				<coordinates>44.204521,32.867477,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Mosul</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Iraq's second largest city and provincial capital of Ninewa province.<br>Fell under ISIS control in June 10, 2014.]]></description>
+			<Point>
+				<coordinates>43.121338,36.354951,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Qayarrah</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Qayarrah fell under ISIS control on June 11.]]></description>
+			<Point>
+				<coordinates>43.288364,35.749438,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Hawija</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Fell under ISIS control on June 11, 2014.]]></description>
+			<Point>
+				<coordinates>43.772621,35.32465,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Riyad</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Fell under ISIS control on June 11, 2014.]]></description>
+			<Point>
+				<coordinates>43.90239700000001,35.259077,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Abbasi</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Fell under ISIS control on June 11, 2014.]]></description>
+			<Point>
+				<coordinates>43.846436,35.462907,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Yankaja</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Fell under ISIS control on June 11, 2014.]]></description>
+			<Point>
+				<coordinates>44.513855,34.917467,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Rashad</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Fell under ISIS control in June 11, 2014.]]></description>
+			<Point>
+				<coordinates>44.13517,35.146021,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Sharqat</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Fell under ISIS control on June 11, 2014.]]></description>
+			<Point>
+				<coordinates>43.246307,35.51099,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Siniyah</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Fell under ISIS control on June 11, 2014.]]></description>
+			<Point>
+				<coordinates>43.395996,34.921971,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-158</styleUrl>
+			<name>Sulaiman Bek</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Fell under ISIS control on June 11, 2014. Iraqi forces and militias retook the town on Sept. 1.]]></description>
+			<Point>
+				<coordinates>44.659424,34.737098,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Tikrit</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Fell under ISIS/Baathist control on June 11, 2014. Iraqi government launched an offensive on June 27 to retake the city; heavy fighting has been reported and Iraqi forces withdrew.<br>Tikrit is the capital of Salahaddin province and the home town of former president Saddam Hussein.]]></description>
+			<Point>
+				<coordinates>43.681641,34.601563,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Bayji</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Fell under ISIS control on June 11, 2014.<br>The refinery is said to be under ISIS control; ISIS is still battling with Iraqi forces there.<br>Home to Iraq's largest oil refinery. Also hosts large oil fields.]]></description>
+			<Point>
+				<coordinates>43.48938,34.957995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Bayji oil refinery</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ISIS and Iraqi forces each control parts of the refinery.]]></description>
+			<Point>
+				<coordinates>43.537273,35.028169000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-158</styleUrl>
+			<name>Tuz Khumatu</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Fell under ISIS control on June 11, 2014. Iraqi forces and militias retook the town on Sept. 1.]]></description>
+			<Point>
+				<coordinates>44.648438,34.881425,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Muthanna Chemical Weapons Facility</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Islamic State took control of the Chemical Weapons Facility on June 12.]]></description>
+			<Point>
+				<coordinates>43.839226,33.86614,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Saadiyah</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Fell under ISIS control on June 13, 2014.]]></description>
+			<Point>
+				<coordinates>45.115356,34.177725,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Jalula</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Fell under ISIS control on June 13, 2014.]]></description>
+			<Point>
+				<coordinates>45.162048,34.286723,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Tal Afar</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Tal Afar fell to the ISIS after heavy fighting on June 15, 2014.]]></description>
+			<Point>
+				<coordinates>42.447052000000006,36.39309900000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Adhaim</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Fell under ISIS control on June 16, 2014.]]></description>
+			<Point>
+				<coordinates>44.510121,34.242956,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-158</styleUrl>
+			<name>Samarra</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Iraqi forces stopped two attempts by the ISIS to overrun Samarra in June.]]></description>
+			<Point>
+				<coordinates>43.879395,34.209531,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-158</styleUrl>
+			<name>Taji</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ISIS fighters are reported to have launched attacks on Iraqi forces in Taji and neighboring towns on June 12.]]></description>
+			<Point>
+				<coordinates>44.23645,33.515637,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-158</styleUrl>
+			<name>Tarmiyah</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>44.384079,33.66664,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-158</styleUrl>
+			<name>Khalis</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>44.520721,33.854451,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-158</styleUrl>
+			<name>Rabiah</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Occupied by Kurdish Peshmerga after the fall of Mosul. As of Aug. 3, the Islamic State is said to be clashing with Kurdish forces in an effort to take control of Rabiah.]]></description>
+			<Point>
+				<coordinates>42.091713,36.807361,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-158</styleUrl>
+			<name>Al Kasik military base</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Occupied by Kurdish Peshmerga after the fall of Mosul on June 10. The current status of the base is unknown.]]></description>
+			<Point>
+				<coordinates>42.659912,36.49639,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-62</styleUrl>
+			<name>Kirkuk</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>44.302368,35.514343,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-62</styleUrl>
+			<name>Khanaqin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>45.376282,34.346838,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-158</styleUrl>
+			<name>Ishaqi</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>44.060669,34.015673,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-158</styleUrl>
+			<name>Baqubah</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ISIS forces briefly seized control of several districts in Baqubah on June 17. Forty-four prisoners were killed during the fighting.]]></description>
+			<Point>
+				<coordinates>44.623718,33.772298,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Miqdadiyah</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ISIS clashed with Iraqi forces on June 16. Much of Miqdadiyah is said to be under ISIS control.]]></description>
+			<Point>
+				<coordinates>44.923096,33.988918,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-158</styleUrl>
+			<name>Dujail</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>44.23233,33.857302,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-24</styleUrl>
+			<name>Al Walid border crossing</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ISIS took control of the crossing to Syria on June 22. Iraqi officials claimed to retake the border on June 24.]]></description>
+			<Point>
+				<coordinates>38.935933,33.435273,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-24</styleUrl>
+			<name>Tarbil border crossing</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ISIS is reported to have taken control of the crossing on June 22. Iraqi officials claimed to retake the border on June 24.]]></description>
+			<Point>
+				<coordinates>39.018373,32.745558,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Ramadi</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ISIS routinely clashes with security forces in Ramadi. ISIS controls some neighborhoods in Ramadi as well as some areas outside of the city. Most of the city was under ISIS control in January 2014.]]></description>
+			<Point>
+				<coordinates>43.285446,33.41826,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Rutbah</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Rutbah fell under ISIS control on June 21.]]></description>
+			<Point>
+				<coordinates>40.253906,33.045508,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Nukhaib</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The ISIS is said to have taken control of the town on June 24.]]></description>
+			<Point>
+				<coordinates>42.247925,32.054645,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Al Muhassan</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ISIS is in control of Al Muhassan, according to SOHR on June 25.]]></description>
+			<Point>
+				<coordinates>40.319824,35.240011,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Al 'Alam</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ISIS took control of the town of Al 'Alam and the nearby Al Ajeel oil fields and refinery on June 25.]]></description>
+			<Point>
+				<coordinates>43.694,34.664488,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-158</styleUrl>
+			<name>Balad Air Base</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ISIS attacked Balad Air Base on June 25. ISIS is said to surround the base from three sides.]]></description>
+			<Point>
+				<coordinates>44.355927,33.965573,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Al Omar oil facility</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ISIS controls the Al Omar oil fields, according to SOHR on June 25.]]></description>
+			<Point>
+				<coordinates>40.595856,35.083675,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Mansuriyah 1 oil well</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ISIS seized control of the Mansouriyat al-Jabal (Mansuriyah 1) Oil Well on June 26.]]></description>
+			<Point>
+				<coordinates>44.927559,34.06745,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Ajeel oil wells</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ISIS seized the Ajeel oil wells on June 25. There are four Ajeel wells listed: Ajeel, Ajeel 6, Ajeel 24, and Ajeel North 1]]></description>
+			<Point>
+				<coordinates>43.670654,34.827332,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Mayadin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ISIS took control of Mayadin in June 2014.]]></description>
+			<Point>
+				<coordinates>40.450630000000004,35.023811,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Tikrit University</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Iraqi troops air assaulted into the university on June 26. One helicopter was shot down. Iraqi forces later withdrew.]]></description>
+			<Point>
+				<coordinates>43.647137,34.680229,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Mahmudiyah</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ISIS and insurgents have been conducting attacks in Mahmudiyah and surrounding villages. ISIS is said to have taken control of Mahmudiyah by the end of June.]]></description>
+			<Point>
+				<coordinates>44.352837,33.063636,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Camp Speicher</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ISIS is said to have taken over control of much of the base on June 29.]]></description>
+			<Point>
+				<coordinates>43.536758,34.670488,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Shuhail</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ISIS took control of the town on July 3. Shuhail is the home of Al Nusrah Front leader Abu Muhammad al Julani.]]></description>
+			<Point>
+				<coordinates>40.462646,35.10699,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Tabqah Dam</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ISIS controls the Tabqah Dam and the nearby city.]]></description>
+			<Point>
+				<coordinates>38.539352,35.837855,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Maskanah</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Maskanah fell under ISIS control in the beginning of July.]]></description>
+			<Point>
+				<coordinates>38.0369,35.968559,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Al Suwar</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Al Suwar  fell under ISIS control in the beginning of July.]]></description>
+			<Point>
+				<coordinates>40.653191,35.50456200000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Tebni</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Tebni fell under ISIS control in the beginning of July.]]></description>
+			<Point>
+				<coordinates>39.827671,35.611813,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Khsham</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Khsham fell under ISIS control in the beginning of July.]]></description>
+			<Point>
+				<coordinates>40.290985,35.30279800000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Al Ashara</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Tribes in Al Ashara swore allegiance to the Islamic State on July 3.]]></description>
+			<Point>
+				<coordinates>40.561523,34.921408,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Sarrin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Sarrin is under ISIS control.]]></description>
+			<Point>
+				<coordinates>38.30040000000001,36.592376,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Ash Shaddadi</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Ash Shaddadi is under ISIS control.]]></description>
+			<Point>
+				<coordinates>40.729451,36.057599,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Awja</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Iraqi military claims to have taken control of Awja on July 4. However reports from July 5 indicate the town is still under ISIS control.]]></description>
+			<Point>
+				<coordinates>43.720093,34.529187,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Khalidiyah</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Fighters from the Islamic State ambushed and destroyed a column of Iraqi M1A1 tanks and M113 armored personnel carriers in Khalidiyah.]]></description>
+			<Point>
+				<coordinates>43.523712,33.386733,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Iskandariyah</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ISIS is said to have taken control of Iskandariyah (Alexandria) by the end of June. Iskandariyah is contested.]]></description>
+			<Point>
+				<coordinates>44.34494,32.892849000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Dhuluiyah</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Dhuluiyah is contested. The town has changed hands multiple times since June 13. In mid-October, the Islamic State released photos claiming to show it in control of half of the town.]]></description>
+			<Point>
+				<coordinates>44.25293,34.073137,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-158</styleUrl>
+			<name>Madain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Islamic State frequently launches ambushes and IED attacks against Iraqi forces and local militia in Madain.]]></description>
+			<Point>
+				<coordinates>44.5784,33.108798,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Badush Dam</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Islamic State took control of the Badush Dam on July 23, 2014.]]></description>
+			<Point>
+				<coordinates>42.774196,36.57151,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Regiment 121</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Islamic State took control of Regiment 121's headquarters in late July.]]></description>
+			<Point>
+				<coordinates>40.7446,36.381629,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-62</styleUrl>
+			<name>Mosul Dam</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Islamic State took control of the Mosul Dam on Aug. 3, 2014 after Kurdish forces withdrew. Kurdish and Iraqi forces are now in control of the dam as Aug. 18. the US launched an air campaign to help Iraqi forces retake the dam.]]></description>
+			<Point>
+				<coordinates>42.812347,36.627652,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-62</styleUrl>
+			<name>Ain Zalah Oil Field</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Islamic State took control of the Ain Zalah Oil Field on or about Aug. 3. Kurdish forces regained control in late August.]]></description>
+			<Point>
+				<coordinates>42.84977,36.668419,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-62</styleUrl>
+			<name>Butmah Oil Field</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Islamic State took control of the Butmah Oil Field on or about Aug. 3. Kurdish forces regained control in late August.]]></description>
+			<Point>
+				<coordinates>42.819901,36.652445,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Ain Issa</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Islamic State defeated Syrian Army's Brigade 93 in Ain Issa in August 2014.]]></description>
+			<Point>
+				<coordinates>38.858643,36.4036,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Sinjar</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Islamic State took control of Sinjar on Aug. 3, 2014 after Kurdish forces withdrew.]]></description>
+			<Point>
+				<coordinates>41.855164,36.32619,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Qaraqosh</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Qaraqosh (Bakhdida) fell under Islamic State control on Aug. 7, 2014.]]></description>
+			<Point>
+				<coordinates>43.374023,36.279707,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Bartella</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Islamic State took control of Bartella on Aug. 7, 2014.]]></description>
+			<Point>
+				<coordinates>43.378143,36.364904,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Tall Kayf</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Islamic State took control of Tall Kayf on Aug. 7, 2014.]]></description>
+			<Point>
+				<coordinates>43.11584500000001,36.501909,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Karemlesh</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Islamic State took control of Karemlesh on Aug. 7, 2014.]]></description>
+			<Point>
+				<coordinates>43.411789,36.315678000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-62</styleUrl>
+			<name>Makhmour</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Islamic State took control of Makhmour on Aug. 3, but Kurdish forces are said to have regained control on Aug. 10.]]></description>
+			<Point>
+				<coordinates>43.590446,35.776217,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-62</styleUrl>
+			<name>Gwair</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Islamic State took control of Gwair on Aug. 3 after fighting with Kurdish forces. The Peshmerga is said to have regained control of Gwair on Aug. 10.]]></description>
+			<Point>
+				<coordinates>43.480711,36.045907,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Turkmen Bareh</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Islamic State took control of Turkmen Bareh on Aug. 7, 2014.]]></description>
+			<Point>
+				<coordinates>37.313004,36.551845,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Akhtarin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Islamic State took control of Akhtarin on Aug. 7, 2014.]]></description>
+			<Point>
+				<coordinates>37.337208,36.510533,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Dabiq</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Islamic State took control of Dabiq on Aug. 7, 2014.]]></description>
+			<Point>
+				<coordinates>37.269616,36.539881,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-62</styleUrl>
+			<name>Irbil</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>44.008484,36.202174,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-62</styleUrl>
+			<name>Sulaymaniyah</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>45.422974,35.612651,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-62</styleUrl>
+			<name>Dohuk</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>43.003235,36.881818,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Abu Hamam</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Tribesmen rose up against the Islamic State after the town fell under the jihadist group's control in late June. But the Islamic State waged a brutal campaign and is now in control of the town.]]></description>
+			<Point>
+				<coordinates>40.681,34.85889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-158</styleUrl>
+			<name>Ash Shafah</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Tribes that oppose the Islamic State have gathered in the town, which is currently contested.]]></description>
+			<Point>
+				<coordinates>40.941925000000005,34.566514,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-62</styleUrl>
+			<name>Telskuf</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Kurdish troops retook Telskuf from the Islamic State on Aug. 17.]]></description>
+			<Point>
+				<coordinates>43.104343,36.599129,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-62</styleUrl>
+			<name>Batnay</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Kurdish troops retook Batnay from the Islamic State on Aug. 17.]]></description>
+			<Point>
+				<coordinates>43.124428,36.538329,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Doudyan</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Islamic State claimed it took control of the town on Aug. 18.]]></description>
+			<Point>
+				<coordinates>37.288628,36.635366,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Tabqa military airport</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Islamic State overran much of the Tabqa military airport on Aug. 24, 2014.]]></description>
+			<Point>
+				<coordinates>38.567162,35.755428,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Kobane</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Also known as Ayn al Arab. The Islamic State took control of 21 villages on Sept. 18 and is laying siege to the city.]]></description>
+			<Point>
+				<coordinates>38.350525,36.86424,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Alsigir</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Islamic State took control of Alsigir in mid-September 2014.]]></description>
+			<Point>
+				<coordinates>43.846779,33.396766,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Albu Aytha</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Islamic State routed an Iraqi mechanized column in Albu Aytha in late Septembr.]]></description>
+			<Point>
+				<coordinates>43.306046,33.447198,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Kubaysah</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Islamic State took control of Kusaybah on Oct. 4., 2014]]></description>
+			<Point>
+				<coordinates>42.615967,33.595747,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-158</styleUrl>
+			<name>Ali Al Asad Airbase</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Islamic State has surrounded the base as of Oct. 14..]]></description>
+			<Point>
+				<coordinates>42.428513,33.818126,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-62</styleUrl>
+			<name>Zumar</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Islamic State took control of Zumar (or Zammar) on Aug. 2 after fighting with Kurdish forces. The Peshmerga is said to have regained control of Zumar on Aug. 10, in September, and again on Oct. 25, 2014.]]></description>
+			<Point>
+				<coordinates>42.604637,36.659537,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-124</styleUrl>
+			<name>Amiriyat al Fallujah</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[As of Oct. 20, Islamic State fighter have surrounded the town.]]></description>
+			<Point>
+				<coordinates>43.860168,33.173192,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-124'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/124-red.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+		</Style>
+		<Style id='icon-158'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/158-yellow.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+		</Style>
+		<Style id='icon-24'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/24-blue.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+		</Style>
+		<Style id='icon-62'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/62-green.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>
